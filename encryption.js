@@ -1,7 +1,8 @@
 /*
 Blake Troutman
-JavaScript encryption library
-Alpha 0.1.0
+JavaScript encryption library v2
+
+Designed to properly encrypt and decrypt data from string to string
 */
 
 function btEncrypt(sample){
