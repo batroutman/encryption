@@ -1,5 +1,7 @@
 //cryptoBT.js
-//v1.0.0
+
+//v1.1.0
+
 //Blake Troutman 2016
 
 function CryptoBT(givenKey="default key"){
@@ -129,7 +131,7 @@ function CryptoBT(givenKey="default key"){
 		
 		return result;
 	}//end arrayToString
-	
+
 	//limit the values of an int array to unicode limits
 	var bind = function(arr){
 		var result = [];
